@@ -1,5 +1,5 @@
 {
-  "name": "@forked-capacitor-community/facebook-login",
+  "name": "@fabiand.guarascio/forked-capacitor-community-facebook-login",
   "version": "6.0.1",
   "description": "A native plugin for Facebook Login",
   "engines": {
